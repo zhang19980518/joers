@@ -5,14 +5,14 @@ layout: home
 hero:
   name: "joerts"
   text: "docs"
-  tagline: My great project tagline
+  tagline: 记录日常问题解决
   actions:
     - theme: brand
-      text: Markdown Examples
+      text: 查看
       link: /markdown-examples
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: github
+      link: https://github.com/zhang19980518
 
 features:
   - title: Feature A
