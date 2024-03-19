@@ -4,6 +4,12 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "joerts",
   description: "docs",
+  locales: {
+    root: {
+      label: 'Chinese',
+      lang: 'cn'
+    },
+  },
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
@@ -23,6 +29,13 @@ export default defineConfig({
         items: [
           { text: '数据同步', link: '/sync-data' },
           { text: 'Runtime API Examples', link: '/api-examples' }
+        ]
+      },
+      {
+        text: 'CSS',
+        items: [
+          { text: '伪类', link: '/un-class' },
+          { text: '结构伪类', link: '/strcut-class' },
         ]
       }
     ],
