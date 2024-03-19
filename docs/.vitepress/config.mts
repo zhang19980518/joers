@@ -36,6 +36,9 @@ export default defineConfig({
         items: [
           { text: '伪类', link: '/un-class' },
           { text: '结构伪类', link: '/strcut-class' },
+          { text: 'UI伪类', link: '/ui-class' },
+          { text: '目标伪类', link: '/target-class' },
+          { text: '语言伪类', link: '/lang-class' },
         ]
       }
     ],
