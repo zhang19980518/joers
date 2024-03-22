@@ -39,6 +39,8 @@ export default defineConfig({
           { text: 'UI伪类', link: '/ui-class' },
           { text: '目标伪类', link: '/target-class' },
           { text: '语言伪类', link: '/lang-class' },
+          { text: '伪元素选择器', link: '/un-origin-class' },
+          { text: '选择器优先级', link: '/select-class' },
         ]
       }
     ],
