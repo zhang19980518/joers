@@ -9,17 +9,18 @@ hero:
   actions:
     - theme: brand
       text: 查看
-      link: /markdown-examples
+      link: /sync-data
     - theme: alt
       text: github
       link: https://github.com/zhang19980518
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+
+  - title: 后端
+    details: 记录后端日常问题解决
+    link: /sync-data
+  - title: 前端
+    details: 记录前端日常tip
+    link: /un-class
 ---
 
