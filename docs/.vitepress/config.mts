@@ -43,6 +43,7 @@ export default defineConfig({
           { text: '伪元素选择器', link: '/un-origin-class' },
           { text: '选择器优先级', link: '/select-class' },
           { text: 'CSS三大特性', link: '/css-three' },
+          { text: '鼠标相关属性', link: '/cursor' },
         ]
       }
     ],
