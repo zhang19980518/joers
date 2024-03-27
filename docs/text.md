@@ -38,7 +38,7 @@ outline: deep
 
 
 ## vertical-align
-行内垂直
+行内垂直,不能控制块级元素
 
 top 上
 
