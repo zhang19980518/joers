@@ -44,6 +44,7 @@ export default defineConfig({
           { text: '选择器优先级', link: '/select-class' },
           { text: 'CSS三大特性', link: '/css-three' },
           { text: '鼠标相关属性', link: '/cursor' },
+          { text: '文本属性', link: '/text' },
         ]
       }
     ],
