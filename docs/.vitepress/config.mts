@@ -46,6 +46,7 @@ export default defineConfig({
           { text: '鼠标相关属性', link: '/cursor' },
           { text: '文本属性', link: '/text' },
           { text: '元素显示模式', link: '/origin-view' },
+          { text: '盒子模型', link: '/box' },
         ]
       }
     ],
