@@ -42,3 +42,14 @@ img,td,th,input,textarea,
 select,button,iframe
 ```
 
+## 修改元素显示模式
+
+### display
+
+> none 隐藏元素
+> 
+> block 作为块级元素显示
+> 
+> inline 作为行级元素显示
+> 
+> inline-block 作为行内块元素显示
