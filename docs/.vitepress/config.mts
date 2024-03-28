@@ -45,6 +45,7 @@ export default defineConfig({
           { text: 'CSS三大特性', link: '/css-three' },
           { text: '鼠标相关属性', link: '/cursor' },
           { text: '文本属性', link: '/text' },
+          { text: '元素显示模式', link: '/origin-view' },
         ]
       }
     ],
