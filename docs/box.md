@@ -72,6 +72,7 @@ outline: deep
 }
 
 ```
+**行内元素左右margin可以完美设置,上下margin无效**
 
 **margin可以是一个负值**
  
