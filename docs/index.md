@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: 查看
-      link: /sync-data
+      link: /server/sync-data
     - theme: alt
       text: github
       link: https://github.com/zhang19980518
@@ -21,6 +21,9 @@ features:
     link: /sync-data
   - title: 前端
     details: 记录前端日常tip
-    link: /un-class
+    link: /css/un-class
+  - title: 日常tip
+    details: 记录日常tip
+    link: /tip/login
 ---
 
