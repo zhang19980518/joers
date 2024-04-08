@@ -18,7 +18,7 @@ features:
 
   - title: 后端
     details: 记录后端日常问题解决
-    link: /sync-data
+    link: /server/sync-data
   - title: 前端
     details: 记录前端日常tip
     link: /css/un-class
