@@ -32,6 +32,12 @@ export default defineConfig({
         ]
       },
       {
+        text: 'React',
+        items: [
+          { text: 'useState', link: '/react/state' },
+        ]
+      },
+      {
         text: '日常tip',
         items: [
           { text: '日常tip', link: '/tip/login' },
